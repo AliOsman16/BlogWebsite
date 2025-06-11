@@ -1,6 +1,6 @@
 # Blog Projeleri
 
-Bu repository, iki farklı blog projesini içermektedir. Bu projeler, web geliştirme alanındaki ilk deneyimlerimi yansıtmaktadır.
+Bu repository, iki farklı blog projesini içermektedir. Bu projeler, backend geliştirme alanındaki ilk deneyimlerimi yansıtmaktadır. Bu sebeple projede eksikler ve mantıksızlıklar olabilir.
 
 ## Projeler
 
@@ -32,8 +32,4 @@ Bu projeler, web geliştirme alanındaki ilk deneyimlerimi içermektedir. Bu ned
 
 ## Katkıda Bulunma
 
-Bu projeler öğrenme amaçlı geliştirilmiştir. Her türlü geri bildirim ve öneri için issues açabilirsiniz.
-
-## Lisans
-
-Bu projeler MIT lisansı altında lisanslanmıştır.
+Bu projeler öğrenme amaçlı geliştirilmiştir.
